@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi everyone, welcome to my page on github!
+  Hi everyone, welcome to my page on github! :wave:
 </h3>
 
 
@@ -10,33 +10,38 @@
 
 ### Brief introduction:
 - My name is Oleg. 
-- Education:  
+- :mortar_board: Education:  
   - Bachelor's degree, Department of Solid State Physics, Faculty of Physics, Kazan State University (2006).  
   - Master's degree, Department of Physics of Atoms and Molecules, Kazan State University (2008). 
-- Currently learning / field of interests:  
+- :book: Currently learning / field of interests:  
   - Data Science, Machine Learning (since 2018).  
-  - Current project: Detection of Blastospores in Photographs.  
-- Currently working on:  
+  - Current project: Detection of Blastospores in Photographs.
+  - Looking for a job in DS. :eyes:
+- :construction_worker: Currently working on:  
   - Design of pipeline transport facilities (more than 15 years).  
   - Certification/attestation: Industrial Safety Expert (5 years, until 07.2022).  
-- English: Pre-Intermediate (Reading & Translating with a dictionary).  
+- :us: English: Pre-Intermediate (Reading & Translating with a dictionary).  
 
 
 ### Skills in DS:
-- Technology stack:
+- :books: Technology stack:
   - Programming language: Python (IDE: VS Code, PyCharm, Jupyter Notebook, Google Colab).  
   - Main libraries: Sklearn, Tensorflow (Keras), Numpy, Pandas.
   - Data Visualisations: Matplotlib, Seaborn.  
   - Apps makers libs: Docker, Docker Compose, Flask, pika (basic knowledges, for micro-applications).
   - OS, version control system: Linux, Git (basic knowledges).
-- Hard skills:
-  - ....
-  - ....
-
-
-- Soft skills:
-  - ...
-  - ...
+- :computer: Hard skills:
+  - Data Analysis.
+  - Data Preprocessing.
+  - Machine Learning.
+  - Deep Learning & Computer Vision.
+  - Math (Linear algebra, Statistics).
+- :bulb: Soft skills:
+  - Continuous Learning.
+  - Team Player.
+  - Critical Thinking.
+  - Team Player.
+  - Communication skills.
 
 
 ### Projects / Tasks:
@@ -46,7 +51,7 @@
 - ...
 
 
-### Honors & awards
+### Honors & awards:
 - 1st place in hackathon organized by Skillfactory+Motorica in the form [3-stage Kaggle competition](https://www.kaggle.com/competitions/motorica-advanced-gesture-classification).
 
 
