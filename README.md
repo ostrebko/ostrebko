@@ -47,8 +47,9 @@
 ### Projects / Tasks:
 - [1. Detection and Calculation of Blastospores](https://github.com/ostrebko/calc_blastos)
 - [2. Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
-- [3. Link to study projects](url...)
-- ...
+- [3. SkillFactory Study Projects](https://github.com/ostrebko/skillfactory_rds)
+- [4. Spam detector using the Naive Bayesian Classifier](https://github.com/ostrebko/spam_detection)
+- [5. Self driving car's data route analysis](https://github.com/ostrebko/yand_car)
 
 
 ### Honors & awards:
