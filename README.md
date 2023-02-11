@@ -40,7 +40,6 @@
   - Continuous Learning.
   - Team Player.
   - Critical Thinking.
-  - Team Player.
   - Communication skills.
 
 
