@@ -47,9 +47,10 @@
 - [1. Detection and Calculation of Blastospores](https://github.com/ostrebko/calc_blastos)
 - [2. Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
 - [3. SkillFactory Study Final Project](https://github.com/ostrebko/skf_final_project)
-- [4. SkillFactory Study Projects](https://github.com/ostrebko/skillfactory_rds)
-- [5. Spam detector using the Naive Bayesian Classifier](https://github.com/ostrebko/spam_detection)
-- [6. Self driving car's data route analysis](https://github.com/ostrebko/yand_car)
+- [4. SkillFactory Study Project 7. Car classification](https://github.com/ostrebko/car_clf)
+- [5. SkillFactory Study Projects](https://github.com/ostrebko/skillfactory_rds)
+- [6. Spam detector using the Naive Bayesian Classifier](https://github.com/ostrebko/spam_detection)
+- [7. Self driving car's data route analysis](https://github.com/ostrebko/yand_car)
 
 
 ### Honors & awards:
