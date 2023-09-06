@@ -26,7 +26,7 @@
 ### Skills in DS:
 - :books: Technology stack:
   - Programming language: Python (IDE: VS Code, PyCharm, Jupyter Notebook, Google Colab).  
-  - Main libraries: Sklearn, Tensorflow (Keras), Numpy, Pandas.
+  - Main libraries: Sklearn, Tensorflow (Keras), Numpy, Pandas, PyTorch, OpenCV.
   - Data Visualisations: Matplotlib, Seaborn.  
   - Apps makers libs: Docker, Docker Compose, Flask, pika (basic knowledges, for micro-applications).
   - OS, version control system: Linux, Git (basic knowledges).
