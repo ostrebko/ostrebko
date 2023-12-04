@@ -9,34 +9,34 @@
 
 
 ### Brief introduction:
-- My name is Oleg. 
-- :mortar_board: Education:  
+- My name is Oleg.  
+- Education :mortar_board: :   
   - Bachelor's degree, Department of Solid State Physics, Faculty of Physics, Kazan State University (2006).  
   - Master's degree, Department of Physics of Atoms and Molecules, Kazan State University (2008). 
-- :book: Currently learning / field of interests:  
+- Currently learning / field of interests :book: :  
   - Data Science, Machine Learning (since 2018).  
   - Current project: Detection of Blastospores in Photographs.
-  - Looking for a job in DS. :eyes:
-- :construction_worker: Currently working on:  
+  - Looking for a job in DS. :eyes:  
+- Currently working on :construction_worker: :  
   - Design of pipeline transport facilities (more than 15 years).  
   - Certification/attestation: Industrial Safety Expert (5 years, until 07.2022).  
-- :us: English: Pre-Intermediate (Reading & Translating with a dictionary).  
+- English :us: : Pre-Intermediate (Reading & Translating with a dictionary).  
 
 
 ### Skills in DS:
-- :books: Technology stack:
+- Technology stack :books: :
   - Programming language: Python (IDE: VS Code, PyCharm, Jupyter Notebook, Google Colab).  
   - Main libraries: Sklearn, Tensorflow (Keras), Numpy, Pandas, PyTorch, OpenCV.
   - Data Visualisations: Matplotlib, Seaborn.  
   - Apps makers libs: Docker, Docker Compose, Flask, pika (basic knowledges, for micro-applications).
   - OS, version control system: Linux, Git (basic knowledges).
-- :computer: Hard skills:
+- Hard skills :computer: :
   - Data Analysis.
   - Data Preprocessing.
   - Machine Learning.
   - Deep Learning & Computer Vision.
   - Math (Linear algebra, Statistics).
-- :bulb: Soft skills:
+- Soft skills :bulb: :
   - Continuous Learning.
   - Team Player.
   - Critical Thinking.
