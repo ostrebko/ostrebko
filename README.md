@@ -18,7 +18,8 @@
   - Current project: Detection of Blastospores in Photographs.
   - Looking for a job in DS. :eyes:  
 - Currently working on :construction_worker: :  
-  - Design of pipeline transport facilities (more than 15 years).  
+  - Motorica, Operational Machine learning engineer (01.2024 - ...)
+  - Design of pipeline transport facilities (more than 15 years, until 01.2024 year).  
   - Certification/attestation: Industrial Safety Expert (5 years, until 07.2022).  
 - English :us: : Pre-Intermediate (Reading & Translating with a dictionary).  
 
